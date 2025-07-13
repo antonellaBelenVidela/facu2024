@@ -44,11 +44,11 @@ int main ()
 
     if (date1 > date2)
     {
-        cout << "LA 1ER FECHA (" << dayf1 << "/" << monthf1 << "/" << yearf1 << ") ES LA MAS RECIENTE!" << endl;
+        cout << endl <<  "LA 1ER FECHA (" << dayf1 << "/" << monthf1 << "/" << yearf1 << ") ES LA MAS RECIENTE!" << endl;
     }
     else
     {
-        cout << "LA 2DA FECHA (" << dayf2 << "/" << monthf2 << "/" << yearf2 << ") ES LA MAS RECIENTE!" << endl;
+        cout << endl << "LA 2DA FECHA (" << dayf2 << "/" << monthf2 << "/" << yearf2 << ") ES LA MAS RECIENTE!" << endl;
     }
 
  system("pause");
